@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Image.lvlib" Type="Library" URL="../Image/Image.lvlib"/>
 		<Item Name="TestLib.lvlib" Type="Library" URL="../TestLib/TestLib.lvlib"/>
 		<Item Name="依赖关系" Type="Dependencies"/>
 		<Item Name="程序生成规范" Type="Build"/>
